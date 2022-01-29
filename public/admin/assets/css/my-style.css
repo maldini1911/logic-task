@@ -1,0 +1,27 @@
+/** Start Public **/
+.card-title{width: 100%;font-size: 20px;}
+table thead tr{background: #172B4D !important;color:#fff;font-weight: bolder;}
+.settings .btn
+{
+    display: block;
+    width: 100% !important;
+    margin-bottom: 2px;
+    text-align: center;
+    font-size: 14px;
+}
+
+table tr td{vertical-align: middle !important;}
+.title-page{padding: 10px;text-shadow: 0px 0px 1px #111;}
+/** End Public **/
+/** ================================================= **/
+/** Start Sidebar **/
+.sidebar-menu{background: #172B4D !important;}
+.sidebar-menu li a{color: #fff !important;}
+.sidebar-header{font-size: 20px !important;color: #fff !important;}
+/** End Sidebar **/
+/** ================================================= **/
+/** Start Navbar **/
+nav{background: #071907 !important}
+nav i{color:#0B3B0B}
+.icon-menu{color: #0B3B0B !important;}
+/** End Navbar **/
